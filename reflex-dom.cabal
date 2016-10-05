@@ -65,7 +65,7 @@ library
       glib == 0.13.*,
       gtk3 >= 0.13.0 && < 0.15,
       webkitgtk3 == 0.14.*,
-      webkitgtk3-javascriptcore == 0.13.*,
+      webkitgtk3-javascriptcore >= 0.13,
       raw-strings-qq
     pkgconfig-depends:
       webkitgtk-3.0 >= 1.8
